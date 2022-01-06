@@ -1,0 +1,2 @@
+pip freeze > requirements.txt - сохранение версий библиотек
+conda env export > environment.yaml - сохранение окружения anaconda
